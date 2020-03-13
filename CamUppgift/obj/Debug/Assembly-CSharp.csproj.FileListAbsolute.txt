@@ -1,0 +1,15 @@
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\UnityEditor.dll
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\UnityEngine.dll
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\Unity.Cecil.dll
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\UnityEngine.xml
+E:\Stuff\Games\UnityGames\CamUppgift\Temp\bin\Debug\UnityEditor.xml
+E:\Stuff\Games\UnityGames\CamUppgift\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Stuff\Games\UnityGames\CamUppgift\obj\Debug\Assembly-CSharp.dll
+E:\Stuff\Games\UnityGames\CamUppgift\obj\Debug\Assembly-CSharp.pdb
